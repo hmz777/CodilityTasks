@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodilityTasks", "CodilityTasks.csproj", "{5E1C4461-A034-4470-97FC-2A780BEC7226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{CCF7D50F-5006-496F-99D0-92764217E267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E1C4461-A034-4470-97FC-2A780BEC7226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1C4461-A034-4470-97FC-2A780BEC7226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1C4461-A034-4470-97FC-2A780BEC7226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1C4461-A034-4470-97FC-2A780BEC7226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF7D50F-5006-496F-99D0-92764217E267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF7D50F-5006-496F-99D0-92764217E267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF7D50F-5006-496F-99D0-92764217E267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF7D50F-5006-496F-99D0-92764217E267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B5CC4FA-B843-4ABF-931D-B6B1F137EBC2}
+	EndGlobalSection
+EndGlobal
