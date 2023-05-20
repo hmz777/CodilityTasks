@@ -10,7 +10,7 @@ namespace UnitTests
 		[TapeEquilibriumData]
 		public void TestTapeEquilibrium(int[] a)
 		{
-			TapeEquilibrium.Solution2(a);
+			TapeEquilibrium.Solution(a);
 		}
 	}
 }
