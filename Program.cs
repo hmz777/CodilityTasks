@@ -1,5 +1,5 @@
 ﻿using CodilityTasks.Problems;
 
-Console.WriteLine(TapeEquilibrium.Solution2(new int[] { -2, -3, -4, -1 }));
+Console.WriteLine(FrogRiverOne.Solution(5, new int[] { 1, 3, 1, 4, 2, 3, 5, 4 }));
 
 Console.ReadLine();
